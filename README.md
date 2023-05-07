@@ -5,7 +5,7 @@
         src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
         width="30px"
       />
-      Hi, I'm Kshitiz
+      Hi, I'm Prakhar
       <img
         src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
         width="30px"
@@ -26,8 +26,8 @@
         src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
         width="20px"
       />;
-- On my way for DevOps;
-- Work? Talk? Suggestions? : Kshitizprakash09@gmail.com ;
+- On my way for Data Analyst
+- Work? Talk? Suggestions? : sinhaprakhar38@gmail.com ;
 
 *👨🏻‍💻 Languages and Tools:*  
 
