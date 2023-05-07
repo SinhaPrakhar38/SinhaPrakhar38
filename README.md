@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 Hello World 🌍 
 This is Prakhar Sinha 
 
-![Prakhar's Github Stats](https://github-readme-stats.vercel.app/api?username=SinhaPrakhar38&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true&custom_title=PrakharSinha's_Github_Stats)
+![Prakhar's Github Stats](https://github-readme-stats.vercel.app/api?username=SinhaPrakhar38&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinhaPrakhar38&lang_count=9&layout=compact&theme=dark)](https://github.com/SinhaPrakhar38/github-readme-stats)
 
