@@ -1,1 +1,2 @@
-![Prakhar's Github Stats](https://github-readme-stats.vercel.app/api?username=SinhaPrakhar38&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true&custom_title=PrakharSinha's_Github_Stats&ring_color=#f1c232)
+![Prakhar's Github Stats](https://github-readme-stats.vercel.app/api?username=SinhaPrakhar38&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true&custom_title=PrakharSinha's_Github_Stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SinhaPrakhar38&repo=SinhaPrakhar38)](https://github.com/SinhaPrakhar38/SinhaPrakhar38)
