@@ -19,7 +19,7 @@ This is Prakhar Sinha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinhaPrakhar38&lang_count=9&layout=compact&theme=dark)](https://github.com/SinhaPrakhar38/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JOS-RE&hide_border=true&background=0D111700&border=943BDD00&fire=0FAADA&sideNums=10D906&currStreakLabel=10D906&currStreakNum=10D906&sideLabels=10D906&dates=4F5D78&stroke=7F1DA2&ring=10D906)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SinhaPrakhar38&hide_border=true&background=0D111700&border=943BDD00&fire=0FAADA&sideNums=10D906&currStreakLabel=10D906&currStreakNum=10D906&sideLabels=10D906&dates=4F5D78&stroke=7F1DA2&ring=10D906)](https://git.io/streak-stats)
 <hr>
 
 
