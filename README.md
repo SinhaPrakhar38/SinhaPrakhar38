@@ -2,16 +2,13 @@
 **SinhaPrakhar38/SinhaPrakhar38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Computer Science Languages
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on web development 
+🌱 I’m currently learning Data Structures And Algorithm from Love Babbar 450
+🤔 I’m looking for help with internships and building networks
+📫 You can reach out to me on Twitter @TTripnature or via email sinhaprakhar38@gmail.com
+
 Hello World 🌍 
 This is Prakhar Sinha 
 
