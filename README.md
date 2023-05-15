@@ -3,9 +3,10 @@
 
 Here are some ideas to get you started:
 -->
-                                                            HELLO WORLD 🌍
+<h2 align="center">HELLO WORLD🌍</h2>
+<h3 align="center">This is Prakhar Sinha</h3>
+<h4 align="center"> I write code and drink Coffee</h4>
 
-                                                        This is Prakhar Sinha
 -🔭 I’m currently working on web development 
 
 -🌱 I’m currently learning Data Structures And Algorithm from Love Babbar 450
