@@ -3,10 +3,9 @@
 
 Here are some ideas to get you started:
 -->
-HELLO WORLD 🌍
+                                                            HELLO WORLD 🌍
 
-This is Prakhar Sinha 
-
+                                                        This is Prakhar Sinha
 -🔭 I’m currently working on web development 
 
 -🌱 I’m currently learning Data Structures And Algorithm from Love Babbar 450
