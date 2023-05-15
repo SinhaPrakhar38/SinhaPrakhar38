@@ -3,6 +3,8 @@
 
 Here are some ideas to get you started:
 -->
+HELLO WORLD 🌍
+This is Prakhar Sinha 
 
 -🔭 I’m currently working on web development 
 
@@ -12,8 +14,7 @@ Here are some ideas to get you started:
 
 -📫 You can reach out to me on Twitter @TTripnature or via email sinhaprakhar38@gmail.com
 
-Hello World 🌍 
-This is Prakhar Sinha 
+
 
 ![Prakhar's Github Stats](https://github-readme-stats.vercel.app/api?username=SinhaPrakhar38&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true)
 
