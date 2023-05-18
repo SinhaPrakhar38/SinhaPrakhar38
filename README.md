@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -📫 You can reach out to me on Twitter @TTripnature or via email sinhaprakhar38@gmail.com
 
-
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 ![A GIF showing a developer working](relative/path/to/gif.gif)
 
 ![Prakhar's Github Stats](https://github-readme-stats.vercel.app/api?username=SinhaPrakhar38&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true)
