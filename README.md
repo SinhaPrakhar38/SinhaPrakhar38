@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 -🔭 I’m currently working on web development 
 
--🌱 I’m currently learning Dat Structures And Algorithm from Love Babbar 450
+-🌱 I’m currently learning Data Structures And Algorithm from Love Babbar 450
 
 -🤔 I’m looking for help with internships and building network
 
