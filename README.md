@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 -🔭 I’m currently working on web development 
 
 -🌱 I’m currently learning Data Structures And Algorithm from Love Babbar 450
-
 -🤔 I’m looking for help with internships and building network
 
 -📫 You can reach out to me on Twitter @TTripnature or via email sinhaprakhar38@gmail.com
