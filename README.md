@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <h3 align="center">This is Prakhar Sinha</h3>
 <h4 align="center"> I write code and drink Coffee</h4>
 
--🔭 I’m currently working on web development 
+-🔭 I’m specialise in web development with a focus on ReactJS
 
 -🌱 I’m currently learning Data Structures And Algorithm from Love Babbar 450
 -🤔 I’m looking for help with internships and building network
