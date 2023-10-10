@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 -->
-<h1 align="center">HELLO WORLD I am Prakhar👋</h1>
+<h1 align="center">HELLO WORLD I am Prakhar👋<></h1>
 <h2 align="center"> I write code and drink Coffee</h2>
 
 🔭 I’m specialise in web development with a focus on ReactJS
