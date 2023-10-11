@@ -6,13 +6,15 @@ Here are some ideas to get you started:
 <h1 align="center">HELLO WORLD I am Prakhar👋<></h1>
 <h2 align="center"> I write code and drink Coffee</h2>
 
-🔭 I’m specialise in web development with a focus on ReactJS
+🔭 I specialise in web development with a focus on ReactJS
 
 📝 I'm currently learning Redux and React
 
+💡I am interested in Blockchain technology
+
 🌱 I’m currently practicing Data Structures And Algorithm from Love Babbar 450
 
-🤔 I’m looking for help with internships and building network
+🤔 I’m looking for help with internships and building a network
 
 
 ![Prakhar's Github Stats](https://github-readme-stats.vercel.app/api?username=SinhaPrakhar38&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&count_private=true)
