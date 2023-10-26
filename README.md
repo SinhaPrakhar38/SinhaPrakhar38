@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 💡I am interested in Blockchain technology
 
-🌱 I’m currently practicing Data Structures And Algorithm from Love Babbar 450
+🌱 I’m currently practicing Data Structures And Algorithms
 
 🤔 I’m looking for help with internships and building a network
 
